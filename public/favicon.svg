@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#b45309" />
+      <stop offset="100%" stop-color="#991b1b" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#1c1917" />
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="url(#grad)" stroke-width="2" opacity="0.6" />
+  <!-- Traditional Sulawesi Tongkonan & Sail Stylized Roof Glyph -->
+  <path d="M12 28 Q32 14 52 28 L46 34 Q32 24 18 34 Z" fill="url(#grad)" />
+  <rect x="20" y="34" width="24" height="18" rx="2" fill="#292524" stroke="#d97706" stroke-width="1.5" />
+  <path d="M32 34 L32 52" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="2 2" />
+  <circle cx="32" cy="42" r="3" fill="#f59e0b" />
+  <!-- Stilt Pillars -->
+  <rect x="23" y="52" width="2.5" height="6" fill="#78716c" />
+  <rect x="38.5" y="52" width="2.5" height="6" fill="#78716c" />
+</svg>

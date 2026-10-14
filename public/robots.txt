@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Warisan Digital Sulawesi
